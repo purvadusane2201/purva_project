@@ -32,7 +32,7 @@ Bootstrap for frontend styling
 #️⃣ 2. Project Structure (Final)
 purva_project/
 │
-├── main_v2c.py                # Main Flask application (entry point)
+├── main.py                # Main Flask application (entry point)
 ├── requirements.txt           # Python dependencies
 ├── README.md                  # User Guide
 │
@@ -57,7 +57,7 @@ pip install -r requirements.txt
 
 No API keys are required.
  The app runs locally via:
-python main_v2c.py
+python main.py
 
 
 #️⃣ 4. Software Architecture
