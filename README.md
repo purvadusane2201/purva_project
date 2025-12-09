@@ -124,10 +124,18 @@ Each section shows:
 ✨ Add your real screenshots here. Example formatting:
 
 ### Homepage UI  
-*(Insert screenshot here)*  
+<img width="1290" height="594" alt="Screenshot 2025-12-08 221612" src="https://github.com/user-attachments/assets/8fca4945-6e07-4140-8505-d45f66375bdb" />
+
+<img width="1242" height="542" alt="Screenshot 2025-12-08 221641" src="https://github.com/user-attachments/assets/3ccc18f1-77ec-45db-8359-ede44816a9f7" />
+
+  
 
 ### Results Example  
-*(Insert screenshot here)*  
+<img width="1402" height="940" alt="Screenshot 2025-12-08 221652" src="https://github.com/user-attachments/assets/b0d00700-1ce6-4c0e-98fb-bab80e434eac" />
+
+<img width="1441" height="854" alt="Screenshot 2025-12-08 221815" src="https://github.com/user-attachments/assets/8b1f559d-2ae3-4cca-9212-34154c4d034d" />
+
+  
 
 > 💡 Tip: Drag images directly into the GitHub README editor to auto-upload.
 
