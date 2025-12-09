@@ -49,12 +49,28 @@
 
     <!-- URL Form -->
     <div class="d-flex justify-content-center mb-4">
-        <form method="POST" class="d-flex w-75 gap-2">
-            <input type="text" name="url" class="form-control form-control-lg" 
-                   value="{{ request.form.url }}"
-                   placeholder="Enter website URL...">
-            <button class="btn btn-primary btn-lg" type="submit">Analyze</button>
-        </form>
+        <form method="POST" id="urlForm" class="mb-4">
+
+    <label for="urlInput" class="form-label fw-semibold">Enter Website URL</label>
+
+    <div class="input-group">
+        <input 
+            type="text" 
+            id="urlInput"
+            name="url"
+            class="form-control"
+            placeholder="https://example.com"
+            value="{{ url }}"
+            required
+        >
+
+        <button class="btn btn-primary" type="submit">
+            Analyze
+        </button>
+    </div>
+
+</form>
+
     </div>
 
     <!-- Error Message -->
