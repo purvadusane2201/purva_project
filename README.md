@@ -135,9 +135,6 @@ Each section shows:
 
 <img width="1441" height="854" alt="Screenshot 2025-12-08 221815" src="https://github.com/user-attachments/assets/8b1f559d-2ae3-4cca-9212-34154c4d034d" />
 
-  
-
-> 💡 Tip: Drag images directly into the GitHub README editor to auto-upload.
 
 ---
 
